@@ -1,0 +1,5 @@
+{
+    "TOKEN": "token",
+    "PREFIX": "!",
+    "MONGO_URI": "mongo db uri"
+  }
